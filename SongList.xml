@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="xmlstyle.css" ?>
+<container>
+	<coverBand>
+		<name>The Imitators</name>
+		<format>Artist • Song • Genre • Year</format>
+		<set>
+			<song>
+				<artist>Kygo • </artist> 
+				<title>Oasis • </title> 
+				<genre>Dance/Electronic • </genre>
+				<year>2016</year>
+			</song>
+			<song>
+				<artist>The Killers • </artist> 
+				<title>Human • </title>
+				<genre>Rock • </genre>
+				<year>2008</year>
+			</song>
+			<song>
+				<artist>Travis Scott • </artist>
+				<title>goosebumps • </title>
+				<genre>Hip Hop • </genre>
+				<year>2016</year>
+			</song>
+			<song>
+				<artist>Counting Crows • </artist>
+				<title>Mr. Jones • </title>
+				<genre>Rock • </genre>
+				<year>1993</year>
+			</song>
+			<song>
+				<artist>Praise You • </artist>
+				<title>Fatboy Slim • </title>
+				<genre>Dance/Electronic • </genre>
+				<year>1998</year>
+			</song>
+			<song>
+				<artist>Gnarly • </artist>
+				<title>Kodak Black • </title>
+				<genre>Hip-Hop/Rap • </genre>
+				<year>2018</year>
+			</song>
+			<song>
+				<artist>Old Thing Back • </artist>
+				<title>Matoma, The Notorious B.I.G. • </title>
+				<genre>Dance/Electronic • </genre>
+				<year>2014</year>
+			</song>
+			<song>
+				<artist>The Beatles • </artist>
+				<title>Let It Be • </title>
+				<genre>Pop • </genre>
+				<year>1968</year>
+			</song>
+			<song>
+				<artist>Bob Marley, The Wailers • </artist>
+				<title>No Woman, No Cry • </title>
+				<genre>Reggae • </genre>
+				<year>1974</year>
+			</song>
+			<song>
+				<artist>Eagles • </artist>
+				<title>Hotel California • </title>
+				<genre>Rock • </genre>
+				<year>1976</year>
+			</song>
+		</set>
+	</coverBand>
+	<footer>
+		Created By: Theo Henry
+	</footer>
+</container>

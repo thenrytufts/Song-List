@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+container {
+	background: url(album.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+coverBand {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+
+name {
+	margin-top: 10%;
+	font-size: 45px;
+	font-style: georgia;
+}
+
+format {
+	margin-top: 4%;
+	font-size: 20px;
+	font-size: georgia;
+}
+
+set {
+	margin-top: 1%;
+	font-size: 25px;
+	display: flex;
+	flex-direction: column;
+}
+
+song {
+	padding-bottom: 5px;
+	letter-spacing: 2px;
+}
+
+footer {
+	position: fixed;
+	bottom: 4px;
+	margin-right: 50px;
+}
